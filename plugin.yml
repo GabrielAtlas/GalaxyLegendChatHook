@@ -1,0 +1,4 @@
+name: GalaxyLCHook
+version: 1.0
+author: Galaxy
+main: me.gabrielblink.galaxyhook.LC.Core
